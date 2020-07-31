@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-authvk/static/css/main.88d456d1.chunk.css",
+    "main.js": "/react-authvk/static/js/main.e4e2f55d.chunk.js",
+    "main.js.map": "/react-authvk/static/js/main.e4e2f55d.chunk.js.map",
+    "runtime-main.js": "/react-authvk/static/js/runtime-main.b85e0fb9.js",
+    "runtime-main.js.map": "/react-authvk/static/js/runtime-main.b85e0fb9.js.map",
+    "static/js/2.b8f0aef3.chunk.js": "/react-authvk/static/js/2.b8f0aef3.chunk.js",
+    "static/js/2.b8f0aef3.chunk.js.map": "/react-authvk/static/js/2.b8f0aef3.chunk.js.map",
+    "index.html": "/react-authvk/index.html",
+    "precache-manifest.3fc3cf9e38616445a1cffb3c6ffb8f1a.js": "/react-authvk/precache-manifest.3fc3cf9e38616445a1cffb3c6ffb8f1a.js",
+    "service-worker.js": "/react-authvk/service-worker.js",
+    "static/css/main.88d456d1.chunk.css.map": "/react-authvk/static/css/main.88d456d1.chunk.css.map",
+    "static/js/2.b8f0aef3.chunk.js.LICENSE.txt": "/react-authvk/static/js/2.b8f0aef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85e0fb9.js",
+    "static/js/2.b8f0aef3.chunk.js",
+    "static/css/main.88d456d1.chunk.css",
+    "static/js/main.e4e2f55d.chunk.js"
+  ]
+}
